@@ -16,4 +16,4 @@ All relevant documentation is available at https://help.memsource.com/hc/en-us
 
 You'll need to sign up for a trial of the Memsource **Ultimate** edition at https://www.memsource.com/pricing/
 
-You can modify this sentence to demostrate how a change of this file triggers the automated localization workflow. Additional test to run job. Again additional test. Keep testing until you get it. And again after deleting all excess projects. And again after selecting Continuous Jobs.
+You can modify this sentence to demostrate how a change of this file triggers the automated localization workflow. Additional test to run job. Again additional test. Keep testing until you get it. And again after deleting all excess projects. And again after selecting Continuous Jobs. And again after creating new Job.
